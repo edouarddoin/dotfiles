@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = edouarddoin@gmail.com
+	name = edouard doin
